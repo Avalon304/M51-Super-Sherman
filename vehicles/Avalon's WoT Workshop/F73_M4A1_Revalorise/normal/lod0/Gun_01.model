@@ -1,0 +1,10 @@
+<gun_01.model>
+  <nodefullVisual>vehicles/Avalon's WoT Workshop/F73_M4A1_Revalorise/normal/lod0/Gun_01</nodefullVisual>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-0.603962 -0.253573 -0.0719658</min>
+    <max>0.60499 0.33406 4.80056</max>
+  </visibilityBox>
+  <tank>	true	</tank>
+</gun_01.model>
